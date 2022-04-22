@@ -7,8 +7,8 @@ Todos os testes do cypress foram feitos pela Trybe.
 
 Todos os códigos do grupo estão na pasta src.
 
-## Para obter este código na sua máquina 
-Basta ir no seu terminal e inserir o comando 
+## Para obter este código na sua máquina basta
+Ir ao seu terminal e inserir o comando 
 
 git clone git@github.com:car0l15/App-de-Receitas.git 
 
