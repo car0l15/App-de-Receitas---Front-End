@@ -28,7 +28,7 @@
 }
 
 .ul-ingredients {
-  backdrop-filter: blur(4px);
+  backdrop-filter: blur(3px);
   color: rgb(14, 2, 2);
   font-family: Montserrat , Helvetica , Arial , sans-serif;
   margin: 15px;
@@ -36,9 +36,9 @@
 
 .paragrafo-details {
   backdrop-filter: blur(3px);
-  color: rgb(14, 2, 2);
+  color: rgb(8, 8, 8);
   font-family: Montserrat , Helvetica , Arial , sans-serif;
-  margin: 20px;
+  margin: 25px;
 
 }
 
