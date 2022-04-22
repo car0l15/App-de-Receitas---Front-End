@@ -31,13 +31,15 @@
   backdrop-filter: blur(3px);
   color: rgb(14, 2, 2);
   font-family: Montserrat , Helvetica , Arial , sans-serif;
+  font-size: 20px;
   margin: 15px;
 }
 
 .paragrafo-details {
   backdrop-filter: blur(3px);
-  color: rgb(8, 8, 8);
+  color: black;
   font-family: Montserrat , Helvetica , Arial , sans-serif;
+  font-size: 22px;
   margin: 25px;
 
 }
