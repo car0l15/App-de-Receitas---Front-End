@@ -15,6 +15,8 @@ para receitas de drinks.
 Utilizamos tecnologias como pacotes npm, React, CSS, JS, 
 Context API, React Hooks.
 
+Metodologia Ágil utilizadas: Scrum e Kanban
+
 ## Todos os testes do cypress foram feitos pela Trybe.
 
 Este app é conhecido como o TCC do módulo de front-end
