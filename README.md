@@ -10,7 +10,7 @@ Consumimos as API's TheMealDB (https://www.themealdb.com/)
 para as receitas de comidas e a TheCookTailDB (https://www.thecocktaildb.com/api.php)
 para receitas de drinks.
 
-##Todos os testes do cypress foram feitos pela Trybe.
+## Todos os testes do cypress foram feitos pela Trybe.
 Este app é conhecido como o TCC do módulo de front-end
 da escola de programação Tryb. Por sua complexidade e por ser
 uma escola, a Trybe precisa saber se seus alunos conseguiram cumprir
@@ -18,7 +18,7 @@ todos os requesitos propostos pela mesma.
 Todos os testes manuais e o resto do desenvolvimento foram feitos pelo 
 grupo.
 
-##Clone
+## Clone
 Para ter este código em sua máquina basta 
 ir ao seu terminal do seu ambiente e inserir o comando:
 - git clone git@github.com:car0l15/App-de-Receitas.git 
