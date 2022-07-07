@@ -24,5 +24,6 @@ ir ao seu terminal do seu ambiente e inserir o comando:
 - git clone git@github.com:car0l15/App-de-Receitas.git 
 - cd App-de-Receitas
 - dar npm install e em seguida npm start
+- inserir email e senha no app e já está tudo pronto para aproveitar!
 
 Você pode encontrar nosso código principal na pasta src.
