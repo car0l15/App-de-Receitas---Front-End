@@ -3,7 +3,7 @@ Esse projeto foi desenvolvido pelos alunos de desenvolvimento de software Rachel
 
 
 ## Sobre o projeto
-O projeto foi desenvolvido no tamanho de tela 360x640.
+O projeto foi desenvolvido na resolução de tela 360x640.
 A ideia inicial foi projetar um app usando React, por
 isso a resolução ideal é a indicada acima.
 Consumimos as API's TheMealDB (https://www.themealdb.com/)
