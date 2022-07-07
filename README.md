@@ -12,6 +12,9 @@ Consumimos as API's TheMealDB (https://www.themealdb.com/)
 para as receitas de comidas e a TheCookTailDB (https://www.thecocktaildb.com/api.php)
 para receitas de drinks.
 
+Utilizamos tecnologias como pacotes npm, React, CSS, JS, 
+Context API, React Hooks.
+
 ## Todos os testes do cypress foram feitos pela Trybe.
 
 Este app é conhecido como o TCC do módulo de front-end
