@@ -15,7 +15,7 @@ para receitas de drinks.
 Utilizamos tecnologias como pacotes npm, React, CSS, JS, 
 Context API, React Hooks.
 
-Metodologia Ágil utilizadas: Scrum e Kanban
+Metodologias ágeis utilizadas: Scrum e Kanban
 
 ## Todos os testes do cypress foram feitos pela Trybe.
 
